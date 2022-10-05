@@ -4,7 +4,7 @@ Might come in handy when you repeatedly use a command, like todo.sh.
 
 ## Install
 
-Copy `repl.fish` to you `~/.config/fish/functions`.
+Copy `repl.fish` to your `~/.config/fish/functions`.
 
 ## Usage
 
